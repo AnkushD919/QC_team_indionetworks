@@ -1,0 +1,9 @@
+Logged in Properly into AP
+AP Model Match
+MAC  Found
+*** FM process Starts *** 
+FM and Certification process Starts for AP MAC address ***
+70:6d:ec:13:03:64
+Copy FM -could copy
+FM FIle copied to AP
+Install FM -could continue

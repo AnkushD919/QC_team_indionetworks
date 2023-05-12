@@ -1,0 +1,155 @@
+Logged in Properly into AP
+AP Model Match
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:13:03:64
+Logged in Properly into AP
+AP Model Match
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:13:03:64
+MAC Not Found could not continue
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:13:03:64
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:13:03:64
+key.pem
+pass
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:13:03:64
+could copy CR files for verification-Pass
+Check if Key.pm file is present
+key.pem
+pass
+Check if ca.pm file is present
+ca.pem
+pass
+Check if cert.pm file is present
+cert.pem
+pass
+Check if dev-id file is present
+dev-id
+pass
+Config Detials
+
+config ucentral 'config'
+	option port '15002'
+	option debug '1'
+	option reporting '10'
+	option serial '706dec130364'
+	option server 'ucjio.indionetworks.com'
+Ping Results
+  _______                     ________ __ ______ __
+ |       |.-----.-----.-----.|  |  |  |__|   ___|__|
+ |   -   ||  _  |  -__|     ||  |  |  |  |   ___|  |
+ |_______||   __|_____|__|__||________|__|__|   |__|
+          |__| W I R E L E S S   F R E E D O M
+ ---------------------------------------------------
+ ApNos-8ad58ca-v2.8.0
+ OpenWrt 21.02-SNAPSHOT, r16399+154-c67509efd7
+ ---------------------------------------------------
+I am pinging do not worry
+PING www.google.com (142.250.183.164): 56 data bytes
+64 bytes from 142.250.183.164: seq=0 ttl=116 time=7.830 ms
+64 bytes from 142.250.183.164: seq=1 ttl=116 time=8.088 ms
+64 bytes from 142.250.183.164: seq=2 ttl=116 time=8.301 ms
+64 bytes from 142.250.183.164: seq=3 ttl=116 time=7.823 ms
+64 bytes from 142.250.183.164: seq=4 ttl=116 time=7.802 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.802/7.968/8.301 ms
+  _______                     ________ __ ______ __
+ |       |.-----.-----.-----.|  |  |  |__|   ___|__|
+ |   -   ||  _  |  -__|     ||  |  |  |  |   ___|  |
+ |_______||   __|_____|__|__||________|__|__|   |__|
+          |__| W I R E L E S S   F R E E D O M
+ ---------------------------------------------------
+ ApNos-8ad58ca-v2.8.0
+ OpenWrt 21.02-SNAPSHOT, r16399+154-c67509efd7
+ ---------------------------------------------------
+  _______                     ________ __ ______ __
+ |       |.-----.-----.-----.|  |  |  |__|   ___|__|
+ |   -   ||  _  |  -__|     ||  |  |  |  |   ___|  |
+ |_______||   __|_____|__|__||________|__|__|   |__|
+          |__| W I R E L E S S   F R E E D O M
+ ---------------------------------------------------
+ ApNos-8ad58ca-v2.8.0
+ OpenWrt 21.02-SNAPSHOT, r16399+154-c67509efd7
+ ---------------------------------------------------
+Could not connect to AP SSID
+Brief Summary
+MAC  FM Verison check - Certificate Files check - Ucentral File Check - PING Results -Braodcast Check
+ 706dec130364   pass-            pass-                   pass-            pass-       fail 
+*** FM - Certification - Verification process Ends *** 
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:13:03:64
+could copy CR files for verification-Pass
+Check if Key.pm file is present
+key.pem
+pass
+Check if ca.pm file is present
+ca.pem
+pass
+Check if cert.pm file is present
+cert.pem
+pass
+Check if dev-id file is present
+dev-id
+pass
+Config Detials
+
+config ucentral 'config'
+	option port '15002'
+	option debug '1'
+	option reporting '10'
+	option serial '706dec130364'
+	option server 'ucjio.indionetworks.com'
+Ping Results
+  _______                     ________ __ ______ __
+ |       |.-----.-----.-----.|  |  |  |__|   ___|__|
+ |   -   ||  _  |  -__|     ||  |  |  |  |   ___|  |
+ |_______||   __|_____|__|__||________|__|__|   |__|
+          |__| W I R E L E S S   F R E E D O M
+ ---------------------------------------------------
+ ApNos-8ad58ca-v2.8.0
+ OpenWrt 21.02-SNAPSHOT, r16399+154-c67509efd7
+ ---------------------------------------------------
+I am pinging do not worry
+PING www.google.com (142.250.192.4): 56 data bytes
+64 bytes from 142.250.192.4: seq=0 ttl=116 time=8.517 ms
+64 bytes from 142.250.192.4: seq=1 ttl=116 time=8.415 ms
+64 bytes from 142.250.192.4: seq=2 ttl=116 time=9.220 ms
+64 bytes from 142.250.192.4: seq=3 ttl=116 time=8.503 ms
+64 bytes from 142.250.192.4: seq=4 ttl=116 time=7.520 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.520/8.435/9.220 ms
+  _______                     ________ __ ______ __
+ |       |.-----.-----.-----.|  |  |  |__|   ___|__|
+ |   -   ||  _  |  -__|     ||  |  |  |  |   ___|  |
+ |_______||   __|_____|__|__||________|__|__|   |__|
+          |__| W I R E L E S S   F R E E D O M
+ ---------------------------------------------------
+ ApNos-8ad58ca-v2.8.0
+ OpenWrt 21.02-SNAPSHOT, r16399+154-c67509efd7
+ ---------------------------------------------------
+  _______                     ________ __ ______ __
+ |       |.-----.-----.-----.|  |  |  |__|   ___|__|
+ |   -   ||  _  |  -__|     ||  |  |  |  |   ___|  |
+ |_______||   __|_____|__|__||________|__|__|   |__|
+          |__| W I R E L E S S   F R E E D O M
+ ---------------------------------------------------
+ ApNos-8ad58ca-v2.8.0
+ OpenWrt 21.02-SNAPSHOT, r16399+154-c67509efd7
+ ---------------------------------------------------
+Could not connect to AP SSID
+Brief Summary
+MAC  FM Verison check - Certificate Files check - Ucentral File Check - PING Results -Braodcast Check
+ 706dec130364   pass-            pass-                   pass-            pass-       fail 
+*** FM - Certification - Verification process Ends *** 

@@ -1,0 +1,24 @@
+Brief Summary
+MAC       FM Verison check - Certificate Files check - Ucentral File Check - PING Results -  Braodcast Check -     Net stat
+ 706dec1300f4     pass-            pass-                      fail-              pass-         fail          fail
+ 706dec13048c     pass-            pass-                      fail-              pass-         fail          fail
+ 706dec130270     pass-            pass-                      pass-              pass-         fail          pass
+ 706dec130364     pass-            pass-                      pass-              pass-         fail          pass
+ 
+ ...........Round_2.................
+Brief Summary
+MAC       FM Verison check - Certificate Files check - Ucentral File Check - PING Results -  Braodcast Check -     Net stat
+ 706dec130270     pass-            fail-                      fail-              pass-         fail          fail
+ 706dec130364     pass-            fail-                      fail-              pass-         fail          fail
+ 706dec130170     pass-            pass-                      pass-              pass-         fail          pass
+ 
+ .................round_3.........................................
+ 
+Brief Summary
+MAC       FM Verison check - Certificate Files check - Ucentral File Check - PING Results -  Braodcast Check -     Net stat
+ 706dec130270     pass-            fail-                      fail-              pass-         fail          fail
+ 706dec130364     pass-            fail-                      fail-              pass-         fail          fail
+ 706dec130170     pass-            pass-                      pass-              pass-         fail          pass
+ 706dec130360     pass-            pass-                      pass-              fail-         fail          pass
+ 706dec1300f4     pass-            pass-                      fail-              pass-         fail          fail
+ 706dec13048c     pass-            pass-                      fail-              fail-         fail          fail
